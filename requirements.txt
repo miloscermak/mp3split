@@ -1,2 +1,2 @@
-streamlit>=1.31.0
-pydub>=0.25.1
+streamlit==1.31.1
+pydub==0.25.1
